@@ -4,4 +4,4 @@ using code2022TEST;
 
 int answer1 = Operator.Add(5, 5);
 
-Console.WriteLine(answer1);
+Console.WriteLine($"\n\t{answer1}");
