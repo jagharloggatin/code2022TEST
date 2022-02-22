@@ -2,6 +2,5 @@
 
 using code2022TEST;
 
-int answer1 = Operator.Add(5, 5);
+Console.WriteLine(Operator.Add(5, 5));
 
-Console.WriteLine($"\n\t{answer1}");
